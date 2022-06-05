@@ -1,0 +1,19 @@
+{
+    "name": "Simplicity in Darkness",
+    "symbol": "0",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GeUxC4wuxeGRXpUiCprJKGacaPMhdUDfRMzcfLmzWCK6",
+          "share": 100
+        }
+      ]
+    }
+  }

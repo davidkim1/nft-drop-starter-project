@@ -1,0 +1,19 @@
+{
+    "name": "Simplicity in Space",
+    "symbol": "1",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GeUxC4wuxeGRXpUiCprJKGacaPMhdUDfRMzcfLmzWCK6",
+          "share": 100
+        }
+      ]
+    }
+  }

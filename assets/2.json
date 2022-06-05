@@ -1,0 +1,19 @@
+{
+    "name": "Simplicity in 80s Museum",
+    "symbol": "2",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GeUxC4wuxeGRXpUiCprJKGacaPMhdUDfRMzcfLmzWCK6",
+          "share": 100
+        }
+      ]
+    }
+  }
